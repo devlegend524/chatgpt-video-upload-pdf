@@ -57,9 +57,9 @@ Local URL: http://localhost:8501
 
 Exemplos
 
-https://youtu.be/robuw_oU0fk
+https://youtu.be/w9Kc_j7P50U
 
-https://youtu.be/d5TVYNQYsrc
+https://youtu.be/jcJaxPNsSuk
 
 ## Autores
 

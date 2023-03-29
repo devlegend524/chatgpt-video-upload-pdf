@@ -1,0 +1,1 @@
+Diretorio onde os resumos dos conteudos aprendidos são salvos

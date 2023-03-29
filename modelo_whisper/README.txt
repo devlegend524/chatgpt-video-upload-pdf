@@ -1,0 +1,1 @@
+Diretorio onde são baixados os modelos do Whisper OpenAI

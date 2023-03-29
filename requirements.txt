@@ -1,0 +1,12 @@
+pypdf
+youtube-search-python
+git+https://github.com/openai/whisper.git
+git+https://github.com/leonardonhesi/pytube.git
+langchain
+openai
+chromadb
+google-api-python-client
+streamlit
+python-dotenv
+streamlit-chat
+unstructured

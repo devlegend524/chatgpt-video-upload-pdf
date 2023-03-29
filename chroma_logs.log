@@ -1,0 +1,10 @@
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to ./db/chroma/tabela/index/index.bin
+DEBUG:Chroma:Index saved to ./db/chroma/tabela/index/index.bin
+DEBUG:Chroma:Index saved to ./db/chroma/tabela/index/index.bin
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0
+DEBUG:Chroma:time to pre process our knn query: 0.0
+DEBUG:Chroma:time to run knn query: 0.0

@@ -5,3 +5,4 @@ db/chroma
 modelo_whisper/large
 modelo_whisper/medium
 __pycache__
+chroma_logs.log

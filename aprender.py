@@ -10,6 +10,11 @@ from langchain                   import OpenAI, PromptTemplate
 from langchain.chains.summarize  import load_summarize_chain
 from youtube                     import vid_toText
 
+# Criar os diretorios caso nao existam
+for f in ['./pdf','./textos','./videos', './resumos', './modelo_whisper']:
+  if os.path.isdir(f) == False:
+    os.mkdir(f)
+
 # Criar um resumo de todos os documentos
 def sumarize(doc):
    prompt_template = """
